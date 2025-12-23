@@ -28,5 +28,6 @@ The Original Unfold Transition has, effectively, fallen to link rot; here remain
 
 I have no idea what the license is for the original, as the code/script came without that information.
 
-DISCLAIMER
+!DISCLAIMER!
+
 The code was modified with Gemma to function with newer versions of Blender, however looking at it, they are functionally identical *except* where the code throws errors.
